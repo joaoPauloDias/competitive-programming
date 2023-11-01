@@ -1,0 +1,5 @@
+# Ignore all files named "input"
+input
+
+# Ignore all .exe files
+*.exe
