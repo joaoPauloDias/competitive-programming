@@ -1,5 +1,7 @@
-# Ignore all files named "input"
-input
+#ignore all kind of files
+*.*
+#except php files
+!*.cpp
 
-# Ignore all .exe files
-*.exe
+input
+a
